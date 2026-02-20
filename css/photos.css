@@ -1,0 +1,810 @@
+.photos #content_shadow #content {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.album #content_shadow #content {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.photo #content_shadow #content {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.photoselect #content_shadow #content {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.editalbum #content_shadow #content {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; POSITION: static
+}
+.editphotos #content_shadow #content {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; POSITION: static
+}
+.photoselect #content_shadow #content {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; POSITION: static
+}
+.editphotos #invite_jump_content {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; POSITION: static
+}
+.editphotos #invite_jump_content .summary_bar {
+	PADDING-BOTTOM: 4px; TEXT-ALIGN: right
+}
+.newalbum #content_shadow #content {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.newalbum .formbuttons {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 215px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; TEXT-ALIGN: left
+}
+.newalbum .formbuttons INPUT {
+	MARGIN: 0px
+}
+.editsinglephoto #content_shadow #content {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; POSITION: static
+}
+.photo #content_shadow #content {
+	POSITION: static
+}
+.nophotos #content_shadow #content {
+	PADDING-TOP: 20px
+}
+.photoprint #content_shadow #content {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; POSITION: static
+}
+#changessaved .status {
+	MARGIN-TOP: 10px; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left
+}
+#nophotos {
+	BORDER-RIGHT: #ddd 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #ddd 1px solid; PADDING-LEFT: 10px; FONT-SIZE: 12px; BACKGROUND: #f7f7f7; PADDING-BOTTOM: 50px; MARGIN: 0px 20px 10px; BORDER-LEFT: #ddd 1px solid; COLOR: #999; LINE-HEIGHT: 17px; PADDING-TOP: 50px; BORDER-BOTTOM: #ddd 1px solid; TEXT-ALIGN: center
+}
+#albumcovers {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: #f7f7f7; PADDING-BOTTOM: 5px; PADDING-TOP: 10px; BORDER-BOTTOM: #d8dfea 1px solid
+}
+ HTML #albumcovers {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px
+}
+#albumcovers #bottompager {
+	MARGIN-BOTTOM: -1px
+}
+#albumcovers TABLE {
+	BORDER-RIGHT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; BACKGROUND: white; MARGIN: 0px 0px 5px; BORDER-LEFT: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid
+}
+#albumcovers TD {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; VERTICAL-ALIGN: top; PADDING-TOP: 5px
+}
+#albumcovers TD.image {
+	PADDING-RIGHT: 10px; WIDTH: 180px
+}
+#albumcovers TD.info {
+	PADDING-RIGHT: 20px
+}
+#albumcovers .count {
+	FONT-WEIGHT: normal; COLOR: gray
+}
+#albumcovers .visible {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: black
+}
+#albumcovers H5 {
+	FONT-SIZE: 12px; MARGIN: 5px 0px 2px
+}
+#albumcovers P {
+	MARGIN: 5px 0px
+}
+#albumcovers .date {
+	COLOR: gray
+}
+#albumsfooter {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-TOP: 3px; TEXT-ALIGN: left
+}
+#albumsupdatefooter {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-TOP: 3px; TEXT-ALIGN: left
+}
+ HTML #albumsupdatefooter {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 3px; MARGIN: -5px 0px 0px; PADDING-TOP: 3px; TEXT-ALIGN: left
+}
+#albumsupdatemessage {
+	FLOAT: left; PADDING-BOTTOM: 3px
+}
+H4 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 4px; MARGIN: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #d8dfea 1px solid; TEXT-ALIGN: left
+}
+#friendsphotos {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 10px; WIDTH: 360px; PADDING-TOP: 10px; TEXT-ALIGN: right
+}
+#friendsphotos H4 SPAN {
+	FLOAT: left; WIDTH: 300px
+}
+#friendsphotos H4 A {
+	FONT-WEIGHT: normal; FLOAT: right
+}
+#friendsphotosonly {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: #f7f7f7; PADDING-BOTTOM: 10px; MARGIN: 0px; PADDING-TOP: 10px; TEXT-ALIGN: center
+}
+#friendalbumrow {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 5px; BACKGROUND: white; PADDING-BOTTOM: 10px; MARGIN: 0px 0px 5px; BORDER-LEFT: #cccccc 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #cccccc 1px solid
+}
+.friendalbum {
+	WIDTH: 280px; PADDING-TOP: 10px; TEXT-ALIGN: left
+}
+.friendalbum0 {
+	FLOAT: left
+}
+.friendalbum1 {
+	CLEAR: right; FLOAT: right
+}
+.friendalbum IMG {
+	FLOAT: left; WIDTH: 75px; MARGIN-RIGHT: 10px
+}
+.friendalbum .author A:hover {
+	COLOR: #3b5998
+}
+.friendalbum .date {
+	COLOR: gray
+}
+#createalbum {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 10px; WIDTH: 200px; PADDING-TOP: 10px; TEXT-ALIGN: left
+}
+#sharefooter {
+	PADDING-RIGHT: 10px; BORDER-TOP: #d8dfea 1px solid; PADDING-LEFT: 10px; BACKGROUND: #f7f7f7; PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-TOP: 3px; TEXT-ALIGN: left
+}
+#albumsubheader {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-SIZE: 11px; BACKGROUND: white; PADDING-BOTTOM: 4px; MARGIN: 0px; COLOR: black; PADDING-TOP: 15px; BORDER-BOTTOM: #d8dfea 1px solid; TEXT-ALIGN: left
+}
+.withpager#albumsubheader {
+	TEXT-ALIGN: right
+}
+.withpager#albumsubheader DIV.menu {
+	FLOAT: left
+}
+#album {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: #f7f7f7; PADDING-BOTTOM: 10px; MARGIN: 0px; PADDING-TOP: 10px; BORDER-BOTTOM: #d8dfea 1px solid
+}
+#album TD {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 3px; VERTICAL-ALIGN: middle; WIDTH: 150px; PADDING-TOP: 3px; TEXT-ALIGN: center
+}
+#album IMG {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 6px; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 6px; BACKGROUND: white; PADDING-BOTTOM: 6px; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 6px; BORDER-BOTTOM: #ccc 1px solid
+}
+#album IMG:hover {
+	BORDER-RIGHT: #3b5998 1px solid; BORDER-TOP: #3b5998 1px solid; BORDER-LEFT: #3b5998 1px solid; BORDER-BOTTOM: #3b5998 1px solid
+}
+.album .footer {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.album .footer .info {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 5px; WIDTH: 400px; PADDING-TOP: 5px
+}
+.album .footer_bar {
+	FLOAT: right; WIDTH: 150px
+}
+.album .footer .description {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 8px; WIDTH: 400px; PADDING-TOP: 0px
+}
+.album .footer .location {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 8px; WIDTH: 400px; PADDING-TOP: 0px
+}
+.album .footer .album_tags {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 8px; WIDTH: 400px; PADDING-TOP: 0px
+}
+.album .footer .footer_nav {
+	FLOAT: right
+}
+.album .footer .pager {
+	CLEAR: right; FLOAT: right; PADDING-BOTTOM: 4px
+}
+.album .footer .share_and_hide {
+	CLEAR: right; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 0px; PADDING-TOP: 6px
+}
+.share_and_hide {
+	
+}
+.album .mobile_notice {
+	PADDING-RIGHT: 0px; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 5px; WIDTH: 365px; PADDING-TOP: 5px
+}
+.sharelink {
+	BORDER-RIGHT: #d8dfea 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #d8dfea 1px solid; PADDING-LEFT: 5px; BACKGROUND: white; PADDING-BOTTOM: 5px; MARGIN: 5px 0px; BORDER-LEFT: #d8dfea 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #d8dfea 1px solid; TEXT-ALIGN: center
+}
+.single_photo_header {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; PADDING-BOTTOM: 0px; PADDING-TOP: 18px; BORDER-BOTTOM: #d8dfea 1px solid
+}
+.single_photo_header H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 14px; PADDING-BOTTOM: 6px; PADDING-TOP: 0px
+}
+.single_photo_header H4 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FLOAT: left; PADDING-BOTTOM: 4px; PADDING-TOP: 3px; BORDER-BOTTOM-STYLE: none
+}
+#photoborder {
+	PADDING-RIGHT: 0px; BORDER-TOP: #f7f7f7 1px solid; PADDING-LEFT: 0px; BACKGROUND: #f7f7f7; PADDING-BOTTOM: 10px; PADDING-TOP: 0px; BORDER-BOTTOM: #d8dfea 1px solid; TEXT-ALIGN: center
+}
+#photoborder IMG {
+	BORDER-RIGHT: #ddd 1px solid; BORDER-TOP: #ddd 1px solid; BACKGROUND: white; MARGIN: 10px; BORDER-LEFT: #ddd 1px solid; BORDER-BOTTOM: #ddd 1px solid
+}
+#photoborder IMG {
+	CURSOR: hand
+}
+#photoinfo {
+	MARGIN: 4px 10px; WIDTH: 606px
+}
+ HTML #photoinfo {
+	WIDTH: 606px
+}
+#photocaption {
+	PADDING-RIGHT: 11px; PADDING-LEFT: 11px; PADDING-BOTTOM: 8px; MARGIN: 0px; WIDTH: 390px; LINE-HEIGHT: 15px; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+#photocaptionleft {
+	WIDTH: 606px; TEXT-ALIGN: left
+}
+#photodate {
+	PADDING-RIGHT: 11px; PADDING-LEFT: 11px; FLOAT: left; PADDING-BOTTOM: 8px; MARGIN: 0px; COLOR: #777; PADDING-TOP: 4px
+}
+.share_and_hide {
+	FLOAT: left; WIDTH: 58px
+}
+#photoinalbum {
+	PADDING-LEFT: 10px; FLOAT: right; BORDER-LEFT: #ccc 1px solid; WIDTH: 170px; LINE-HEIGHT: 15px
+}
+#phototags {
+	PADDING-RIGHT: 11px; PADDING-LEFT: 11px; PADDING-BOTTOM: 8px; MARGIN: 0px; WIDTH: 390px; LINE-HEIGHT: 15px; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+#phototags .darklink {
+	COLOR: #555
+}
+#photocaptionleft .share_and_hide {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 11px; PADDING-BOTTOM: 3px; PADDING-TOP: 2px
+}
+#tagframe {
+	BORDER-RIGHT: #d8dfea 7px solid; BORDER-TOP: #d8dfea 7px solid; LEFT: 10px; BORDER-LEFT: #d8dfea 7px solid; WIDTH: 170px; BORDER-BOTTOM: #d8dfea 7px solid; POSITION: absolute; TOP: 10px; HEIGHT: 170px
+}
+#tagframeinside {
+	BORDER-RIGHT: #3b5998 2px solid; BORDER-TOP: #3b5998 2px solid; DISPLAY: block; LEFT: 0px; BORDER-LEFT: #3b5998 2px solid; WIDTH: 166px; CURSOR: crosshair; BORDER-BOTTOM: #3b5998 2px solid; POSITION: absolute; TOP: 0px; HEIGHT: 166px
+}
+#nameframe {
+	LEFT: 0px; POSITION: absolute; TOP: 0px; TEXT-ALIGN: center
+}
+#nameframe SPAN {
+	PADDING-RIGHT: 5px; DISPLAY: block; PADDING-LEFT: 5px; FONT-WEIGHT: bold; PADDING-BOTTOM: 4px; COLOR: #fff; PADDING-TOP: 3px; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #282828
+}
+#nameframe A {
+	PADDING-RIGHT: 5px; DISPLAY: block; PADDING-LEFT: 5px; FONT-WEIGHT: bold; PADDING-BOTTOM: 4px; COLOR: #fff; PADDING-TOP: 3px; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #282828
+}
+#photocommentshow {
+	CLEAR: left; FLOAT: left; MARGIN-BOTTOM: 10px
+}
+#photocomment {
+	FLOAT: left; WIDTH: 400px; PADDING-TOP: 6px
+}
+#photocomment .actions A SMALL {
+	COLOR: #3b5998
+}
+#photocomment .actions A:hover {
+	TEXT-DECORATION: underline
+}
+#photoaddcomment {
+	CLEAR: left; FLOAT: left; MARGIN: 10px 0px
+}
+#photoaddcomment H4 {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#photoactions {
+	FLOAT: right; MARGIN: 3px 0px; WIDTH: 150px
+}
+#photoactions A {
+	CLEAR: both; PADDING-RIGHT: 3px; DISPLAY: block; PADDING-LEFT: 3px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BORDER-BOTTOM: #d8dfea 1px solid
+}
+#photoactions .action_link {
+	CLEAR: both; PADDING-RIGHT: 3px; DISPLAY: block; PADDING-LEFT: 3px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BORDER-BOTTOM: #d8dfea 1px solid
+}
+#photoactions .non_action {
+	CLEAR: both; PADDING-RIGHT: 3px; DISPLAY: block; PADDING-LEFT: 3px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BORDER-BOTTOM: #d8dfea 1px solid
+}
+#photoactions A:hover {
+	BACKGROUND: #3b5998; COLOR: white; TEXT-DECORATION: none
+}
+#photoactions .action_link:hover {
+	BACKGROUND: #3b5998; COLOR: white; TEXT-DECORATION: none
+}
+#photoactions .non_action {
+	MARGIN-TOP: 0px; COLOR: #666666; BORDER-BOTTOM-STYLE: none
+}
+#photoactions .non_action:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #666666; TEXT-DECORATION: none
+}
+#rotateleft {
+	FLOAT: left; WIDTH: 75px; BORDER-BOTTOM: #d8dfea 1px solid
+}
+#rotateright {
+	FLOAT: left; WIDTH: 75px; BORDER-BOTTOM: #d8dfea 1px solid
+}
+#rotateleft {
+	BACKGROUND: url(../images/rotateleft.gif) white no-repeat 46px 2px
+}
+#rotateleft:hover {
+	BACKGROUND: url(../images/rotatelefthover.gif) #3b5998 no-repeat 46px 2px
+}
+#rotateright {
+	BACKGROUND: url(../images/rotateright.gif) white no-repeat 3px 2px
+}
+#rotateright:hover {
+	BACKGROUND: url(../images/rotaterighthover.gif) #3b5998 no-repeat 3px 2px
+}
+#rotateright A {
+	PADDING-LEFT: 33px
+}
+#rotateleft A {
+	CLEAR: none; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#rotateright A {
+	CLEAR: none; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#rotateleft A:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: white; TEXT-DECORATION: none
+}
+#rotateright A:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: white; TEXT-DECORATION: none
+}
+#convertmobile {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; WIDTH: 300px; PADDING-TOP: 10px; TEXT-ALIGN: center
+}
+#convertmobile H4 {
+	TEXT-ALIGN: center
+}
+#convertmobile P {
+	FONT-SIZE: 11px; TEXT-ALIGN: center
+}
+.movephoto SELECT {
+	WIDTH: 117px
+}
+.newalbum #newalbum {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 20px; PADDING-TOP: 20px
+}
+#newalbum .inputtext {
+	WIDTH: 250px
+}
+#newalbum TEXTAREA {
+	WIDTH: 250px
+}
+#newalbum .inputsubmit {
+	WIDTH: auto
+}
+#newalbum .inputbutton {
+	WIDTH: auto
+}
+#files DIV {
+	MARGIN: 5px 0px 8px
+}
+#files INPUT {
+	WIDTH: 200px
+}
+#morefiles {
+	MARGIN-TOP: 15px
+}
+#uploading {
+	MARGIN: 20px auto; WIDTH: 400px
+}
+#noactive {
+	MARGIN: 15px 0px 0px; TEXT-ALIGN: center
+}
+#iphoto_suggestion {
+	MARGIN: 12px 0px 0px; TEXT-ALIGN: center
+}
+#mobile_suggestion {
+	MARGIN: 4px 0px 20px; TEXT-ALIGN: center
+}
+#photodisclaimer {
+	MARGIN: 5px 0px 15px; TEXT-ALIGN: center
+}
+#photoagree {
+	MARGIN: 10px 0px 15px; WIDTH: 300px; TEXT-ALIGN: left
+}
+#photoagree INPUT {
+	WIDTH: auto
+}
+SMALL {
+	COLOR: #666666
+}
+#editphoto {
+	MARGIN: 20px auto; WIDTH: 540px
+}
+#editphoto .photo {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 15px; MARGIN: 0px auto 15px; WIDTH: 540px; PADDING-TOP: 0px; BORDER-BOTTOM: #3b5998 1px solid
+}
+#editphoto .last {
+	BORDER-BOTTOM-STYLE: none
+}
+#editphoto .photo .thumb {
+	FLOAT: left; MARGIN-LEFT: 10px; WIDTH: 180px
+}
+#editphoto .photo .info {
+	FLOAT: left; MARGIN: 0px 10px
+}
+#editphoto .photo .info LABEL {
+	CLEAR: right; DISPLAY: block; MARGIN-BOTTOM: 2px
+}
+#editphotoalbum {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: #f7f7f7; PADDING-BOTTOM: 5px; PADDING-TOP: 10px; BORDER-BOTTOM: #d8dfea 1px solid
+}
+ HTML #editphotoalbum {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px
+}
+#editphotoalbum .emails_error {
+	BORDER-RIGHT: #dd3c10 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #dd3c10 1px solid; PADDING-LEFT: 10px; BACKGROUND: #ffebe8; PADDING-BOTTOM: 10px; MARGIN: 10px; BORDER-LEFT: #dd3c10 1px solid; WIDTH: 580px; PADDING-TOP: 10px; BORDER-BOTTOM: #dd3c10 1px solid
+}
+#editphotoalbum .emails_success {
+	BORDER-RIGHT: #ffe222 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #ffe222 1px solid; PADDING-LEFT: 10px; BACKGROUND: #fffbe2; PADDING-BOTTOM: 10px; MARGIN: 10px; BORDER-LEFT: #ffe222 1px solid; WIDTH: 580px; PADDING-TOP: 10px; BORDER-BOTTOM: #ffe222 1px solid
+}
+#editphotoalbum .emails_success H3 {
+	FONT-SIZE: 11px
+}
+#editphotoalbum .photo {
+	BORDER-RIGHT: #d8dfea 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #d8dfea 1px solid; PADDING-LEFT: 10px; BACKGROUND: white; PADDING-BOTTOM: 10px; MARGIN: 0px 10px 5px; BORDER-LEFT: #d8dfea 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #d8dfea 1px solid
+}
+#editphotoalbum IMG {
+	CURSOR: crosshair
+}
+#editphotoalbum .photo .thumb {
+	FLOAT: right; WIDTH: 180px
+}
+#editphotoalbum .photo .thumb .covercheck {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 1px; BACKGROUND: #f7f7f7; PADDING-BOTTOM: 1px; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 1px; BORDER-BOTTOM: #ccc 1px solid; TEXT-ALIGN: left
+}
+#editphotoalbum .covercheck LABEL {
+	DISPLAY: inline; FONT-WEIGHT: normal; MARGIN: 0px; COLOR: #000000
+}
+#editphotoalbum .photo .thumb .noradio {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+#editphotoalbum .photo .info {
+	FLOAT: left; WIDTH: 400px
+}
+#editphotoalbum .photo .info TEXTAREA {
+	WIDTH: 290px
+}
+#editphotoalbum .photo .info .tags {
+	LINE-HEIGHT: 15px
+}
+#editphotoalbum .photo .info .notags {
+	DISPLAY: none
+}
+#editphotoalbum .photo .info LABEL {
+	DISPLAY: block; FLOAT: left; MARGIN-BOTTOM: 2px
+}
+#editphoto SMALL {
+	COLOR: gray
+}
+#editphotoalbum SMALL {
+	COLOR: gray
+}
+#editphoto TEXTAREA {
+	MARGIN-TOP: 0px
+}
+#editphotoalbum TEXTAREA {
+	MARGIN-TOP: 0px
+}
+.editphotos .tab_bar {
+	MARGIN: 0px
+}
+.editalbum .tab_bar {
+	MARGIN: 0px 0px 10px
+}
+.editalbum #newalbum {
+	PADDING-TOP: 12px
+}
+#selector {
+	BORDER-RIGHT: #3b5998 1px solid; BORDER-TOP: #3b5998 1px solid; FONT-SIZE: 11px; BACKGROUND: white; LEFT: 300px; MARGIN-BOTTOM: 20px; BORDER-LEFT: #3b5998 1px solid; WIDTH: 180px; BORDER-BOTTOM: #3b5998 2px solid; POSITION: absolute; TOP: 100px
+}
+#selector INPUT {
+	MARGIN: 2px 5px 0px; WIDTH: 164px
+}
+#selector LABEL {
+	DISPLAY: block; FONT-WEIGHT: bold; MARGIN: 2px 5px; COLOR: gray
+}
+#selector .buttons {
+	TEXT-ALIGN: center
+}
+#selector .buttons INPUT {
+	MARGIN: 5px 2px
+}
+#selector .buttons .tag {
+	WIDTH: 50px
+}
+#selector .buttons .cancel {
+	WIDTH: 60px
+}
+#userlist {
+	BORDER-TOP: #ccc 1px solid; BACKGROUND: #eee; OVERFLOW: auto; WIDTH: 180px; LINE-HEIGHT: 20px; BORDER-BOTTOM: #ccc 1px solid; HEIGHT: 200px
+}
+#userlist LABEL {
+	DISPLAY: inline; FONT-WEIGHT: normal; MARGIN: 0px; COLOR: #000000
+}
+#userlist INPUT {
+	WIDTH: auto
+}
+#userlist HR {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 2px 0px; PADDING-TOP: 0px
+}
+#userlistdiv {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: red; PADDING-BOTTOM: 0px; MARGIN: 0px 8px; WIDTH: 140px; LINE-HEIGHT: 1px; PADDING-TOP: 0px; HEIGHT: 1px
+}
+#invite_section {
+	BORDER-RIGHT: #c0c0c0 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #c0c0c0 1px solid; PADDING-LEFT: 4px; FONT-SIZE: 9px; BACKGROUND: #f1f1f1; PADDING-BOTTOM: 4px; MARGIN: 6px; BORDER-LEFT: #c0c0c0 1px solid; PADDING-TOP: 4px; BORDER-BOTTOM: #c0c0c0 1px solid
+}
+#invite_section .inputtext {
+	FONT-SIZE: 9px; WIDTH: 100px; HEIGHT: 11px
+}
+#invite_section .inputcheckbox {
+	FLOAT: left; WIDTH: auto
+}
+#invite_section LABEL {
+	FLOAT: left; MARGIN: 0px; WIDTH: 30px; PADDING-TOP: 6px
+}
+#frame {
+	BACKGROUND: url(../images/tagframe.gif); WIDTH: 62px; CURSOR: crosshair; POSITION: absolute; HEIGHT: 62px
+}
+.clearfix:unknown {
+	CLEAR: both; DISPLAY: block; VISIBILITY: hidden; HEIGHT: 0px; content: "."
+}
+.clearfix {
+	
+}
+ HTML .clearfix {
+	HEIGHT: 1%
+}
+.clearfix {
+	DISPLAY: block
+}
+.photosearch#album {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; PADDING-BOTTOM: 10px; PADDING-TOP: 5px
+}
+.photosearch#album H5 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; PADDING-BOTTOM: 4px; MARGIN: 5px 0px; COLOR: gray; PADDING-TOP: 0px; BORDER-BOTTOM: #d8dfea 1px solid
+}
+.photosearch#album .sectiontype {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 4px; MARGIN: 5px 0px 4px; PADDING-TOP: 4px; BORDER-BOTTOM: #ccc 1px solid
+}
+.photosearch#album .withmore {
+	TEXT-ALIGN: right
+}
+.photosearch#album .withmore DIV {
+	FLOAT: left
+}
+#album .quickselect {
+	TEXT-ALIGN: right
+}
+#ieinstallation {
+	MARGIN: 0px 20px
+}
+#cancelledactivex {
+	MARGIN: 0px 20px
+}
+.status_holder {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: #f7f7f7; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 10px
+}
+.status_holder .status {
+	MARGIN-BOTTOM: 0px
+}
+.status_holder #error {
+	MARGIN-BOTTOM: 0px
+}
+.photoselect .back_to_albums {
+	MARGIN: 0px 5px 5px
+}
+.photoselect .buttons {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 7px; PADDING-TOP: 7px; TEXT-ALIGN: center
+}
+#tagging_instructions {
+	BORDER-RIGHT: #ffe222 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #ffe222 1px solid; PADDING-LEFT: 10px; BACKGROUND: #fffbe2; PADDING-BOTTOM: 10px; MARGIN: 10px 10px 0px; BORDER-LEFT: #ffe222 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #ffe222 1px solid
+}
+.album .summary A {
+	FONT-WEIGHT: normal
+}
+.album .summary_bar H4 {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+.album .quickselect {
+	PADDING-RIGHT: 0px; BORDER-TOP: #ccc 1px solid; MARGIN-TOP: 5px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+#enrichedalbum .batchtitle {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 4px; MARGIN: 0px; COLOR: #666; PADDING-TOP: 0px; BORDER-BOTTOM: #ccc 1px solid
+}
+#enrichedalbum TABLE {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 8px; PADDING-TOP: 3px
+}
+#enrichedalbum .enrichedphotos TD {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; TEXT-ALIGN: center
+}
+#enrichedalbum .enrichedsection TABLE {
+	WIDTH: 2px
+}
+#enrichedalbum .enrichedsection TD {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 6px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 6px; BACKGROUND: white 0% 50%; PADDING-BOTTOM: 6px; BORDER-LEFT: #cccccc 1px solid; WIDTH: auto; PADDING-TOP: 6px; BORDER-BOTTOM: #cccccc 1px solid; TEXT-ALIGN: left
+}
+#enrichedalbum IMG {
+	BORDER-RIGHT: white 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: white 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: white 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: white 1px solid; max-width: 130px
+}
+#enrichedalbum .subtext {
+	FONT-SIZE: 10px; COLOR: #666
+}
+#enrichedalbum .emptytext {
+	COLOR: #666
+}
+#enrichedalbum .buttons {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 8px; TEXT-ALIGN: center
+}
+#enrichedalbum .buttons TABLE {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 10px; PADDING-TOP: 0px
+}
+#enrichedalbum .buttons .rightoptions {
+	TEXT-ALIGN: left
+}
+#enrichedalbum .buttons .leftoptions {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; PADDING-TOP: 6px; TEXT-ALIGN: right
+}
+#enrichedalbum .buttons .rightoptions SELECT {
+	WIDTH: 250px
+}
+#print_partner_info {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 265px; PADDING-TOP: 5px; TEXT-ALIGN: left
+}
+.print_item IMG {
+	FLOAT: left; WIDTH: 75px; MARGIN-RIGHT: 10px
+}
+#photoprintstatus {
+	COLOR: black
+}
+#photoprintstatus .statustext {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+#photoprintstatus A {
+	CLEAR: none; PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#photoprintstatus A:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #3b5998; TEXT-DECORATION: underline
+}
+.visible#photoprintstatus {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; COLOR: #333; PADDING-TOP: 5px; BORDER-BOTTOM: #d8dfea 1px solid; BACKGROUND-COLOR: #f7f7f7
+}
+.loading#photoprintstatus {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; COLOR: #808080; PADDING-TOP: 5px; BORDER-BOTTOM: #d8dfea 1px solid
+}
+#photoprintstatus UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#photoprintstatus LI {
+	MARGIN: 0px; PADDING-TOP: 10px; LIST-STYLE-TYPE: none
+}
+#photoprintstatus LI A {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+#photoprintstatus LI A:hover {
+	
+}
+.cart_instructions {
+	BORDER-RIGHT: #ffe222 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #ffe222 1px solid; PADDING-LEFT: 5px; BACKGROUND: #fffbe2; PADDING-BOTTOM: 5px; MARGIN: 5px 7px 5px 5px; BORDER-LEFT: #ffe222 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #ffe222 1px solid; TEXT-ALIGN: center
+}
+#photoprint_cart {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; OVERFLOW: hidden; PADDING-TOP: 10px
+}
+#photoprint_cart H2 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; COLOR: #333; PADDING-TOP: 0px
+}
+#photoprint_cart TABLE.cart_item {
+	DISPLAY: block; FONT-WEIGHT: normal; FONT-SIZE: 10px; FLOAT: left; MARGIN: 0px; OVERFLOW: hidden; TEXT-ALIGN: center
+}
+#photoprint_cart TABLE.cart_item TD {
+	MARGIN: auto; VERTICAL-ALIGN: bottom; WIDTH: 104px; TEXT-ALIGN: center
+}
+#photoprint_cart TABLE.cart_item A.img {
+	BORDER-RIGHT: #d0d0d0 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #d0d0d0 1px solid; DISPLAY: block; PADDING-LEFT: 3px; BACKGROUND: #ffffff; PADDING-BOTTOM: 3px; MARGIN: auto auto 5px; BORDER-LEFT: #d0d0d0 1px solid; WIDTH: 75px; PADDING-TOP: 3px; BORDER-BOTTOM: #d0d0d0 1px solid
+}
+#photoprint_cart TABLE.cart_item A.img:hover {
+	BORDER-LEFT-COLOR: #3b5998; BORDER-BOTTOM-COLOR: #3b5998; BORDER-TOP-COLOR: #3b5998; BORDER-RIGHT-COLOR: #3b5998
+}
+#photoprint_cart TABLE.cart_item A.img SPAN {
+	DISPLAY: block; OVERFLOW: hidden; WIDTH: 75px; ; HEIGHT: expression((this.getElementsByTagName('img').length==1?Math.min(this.getElementsByTagName('img')[0].offsetHeight,70):70)+'px'); max-height: 70px
+}
+#photoprint_cart TABLE.cart_item A.img IMG {
+	DISPLAY: block
+}
+.set_photoprint_main_col LABEL {
+	FONT-WEIGHT: normal; COLOR: black
+}
+.photoprint_header {
+	MARGIN-LEFT: 10px
+}
+.my_photos .photoprint_header H4 {
+	FONT-SIZE: 14px
+}
+.photoprint_subtitle {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; BORDER-BOTTOM: #ccc 1px solid
+}
+.photoprint_note {
+	FONT-SIZE: 0.8em; COLOR: #606060
+}
+.photoprint_details IMG {
+	FLOAT: left; MARGIN: 0px 15px
+}
+.print_item H5 {
+	FONT-SIZE: 12px
+}
+.print_item .label {
+	COLOR: gray
+}
+.footer_bar {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BACKGROUND: white; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 1px; BORDER-RIGHT-WIDTH: 0px
+}
+#public_link_editphoto {
+	CLEAR: both; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 9px; PADDING-BOTTOM: 5px; COLOR: #333; PADDING-TOP: 5px; TEXT-ALIGN: center
+}
+#public_link_editalbum {
+	CLEAR: both; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 9px; PADDING-BOTTOM: 5px; COLOR: #333; PADDING-TOP: 5px; TEXT-ALIGN: center
+}
+#public_link_album {
+	CLEAR: both; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 9px; PADDING-BOTTOM: 5px; COLOR: #333; PADDING-TOP: 5px; TEXT-ALIGN: center
+}
+#public_link_album {
+	MARGIN: 10px 0px 0px
+}
+#public_link_editphoto {
+	MARGIN: 20px 0px 0px
+}
+#public_link_editalbum {
+	MARGIN: 20px 0px 0px
+}
+#public_link_editalbum {
+	BORDER-TOP: #d8dfea 1px solid; BACKGROUND: #f7f7f7
+}
+#public_link_album {
+	BORDER-TOP: #d8dfea 1px solid; BACKGROUND: #f7f7f7
+}
+#public_link_editphoto SPAN {
+	DISPLAY: block; FONT-SIZE: 11px; COLOR: black
+}
+#public_link_editalbum SPAN {
+	DISPLAY: block; FONT-SIZE: 11px; COLOR: black
+}
+#public_link_album SPAN {
+	DISPLAY: block; FONT-SIZE: 11px; COLOR: black
+}
+.context_label {
+	COLOR: gray
+}
+BODY.photo #book #photorating IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+#photorating {
+	MARGIN-BOTTOM: 1em; MARGIN-LEFT: 1em
+}
+.ratings SPAN SPAN {
+	FONT-SIZE: 9px; MARGIN-LEFT: 4px; WIDTH: 50px; COLOR: #777; TEXT-ALIGN: right
+}
+.photoratings_and_date #photodate {
+	FLOAT: right
+}
+.photoratings_and_date {
+	WIDTH: 420px
+}
+.photoratings_and_date #ratings_wrap_0 {
+	DISPLAY: inline; HEIGHT: 20px
+}
+.photo_search #book #photoratings_search .ratings IMG {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#album #photoratings_search IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#album #photoratings_search IMG:hover {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#album #photoratings_search IMG {
+	max-height: 86px
+}
+.photo_search #book #photoratings_search .ratings SPAN SPAN {
+	FONT-SIZE: 9px; MARGIN-LEFT: 4px; WIDTH: 50px; COLOR: #777; TEXT-ALIGN: right
+}
+#photoratings_search .ratings_outer_cell {
+	BORDER-RIGHT: #bbb 1px solid; BORDER-TOP: #bbb 1px solid; BACKGROUND: #fff; BORDER-LEFT: #bbb 1px solid; WIDTH: 142px; BORDER-BOTTOM: #bbb 1px solid; HEIGHT: 120px
+}
+#photoratings_search .ratings_img_cell {
+	HEIGHT: 100px
+}
+#photoratings_search .ratings {
+	PADDING-LEFT: 4px; HEIGHT: 20px; TEXT-ALIGN: left
+}
+#photoborder DIV#ratings_wrap_0 SPAN IMG {
+	CURSOR: auto
+}
