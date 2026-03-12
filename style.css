@@ -251,3 +251,6 @@ p.more {
 .clear {
 	clear: both;
 }
+#player {
+ width: 50%;
+}​
