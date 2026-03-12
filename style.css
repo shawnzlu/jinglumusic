@@ -251,7 +251,10 @@ p.more {
 .clear {
 	clear: both;
 }
-#player {
- width: 100px;
+audio { 
+	width: 150px; 
+	display: block; 
+	margin:20px; 
 }​
+
 
